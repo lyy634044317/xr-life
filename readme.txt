@@ -1,2 +1,3 @@
 # xr-life is maven project 
-read pom.xml 
+read pom.xml
+edit dfafd
